@@ -54,3 +54,9 @@ section {
 #number {
     width: 200px;
 }
+
+input[type="radio"],
+input[type="checkbox"] {
+    float: left;
+    margin-right: 5px;
+}
