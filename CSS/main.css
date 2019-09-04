@@ -26,3 +26,10 @@ section {
     vertical-align: top;
     margin-top: 10px;
 }
+
+.rightTab {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    vertical-align: middle;
+}
