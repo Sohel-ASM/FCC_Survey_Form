@@ -4,4 +4,13 @@
 </section>
 <form id="survey-form" action="/freeCodeCamp" method="post">
 
+    <div>
+        <label class="labels" id="name-label" for="name">
+            <span>Name: </span>
+            <strong><abbr title="required">*</abbr></strong>
+        </label>
+        <div class="rightTab">
+            <input type="text" id="name" class="input-field" name="user_name" placeholder="Enter your name" required pattern="[A-Za-z][a-z]+">
+        </div>
+    </div>
 </form>
