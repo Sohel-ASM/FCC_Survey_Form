@@ -42,3 +42,15 @@ section {
     border: 1px solid #c0c0c0;
     border-radius: 2px;
 }
+
+#name {
+    width: 200px;
+}
+
+#mail {
+    width: 200px;
+}
+
+#number {
+    width: 200px;
+}
